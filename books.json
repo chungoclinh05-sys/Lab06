@@ -1,0 +1,18 @@
+[
+    {
+        "code": "ms01",
+        "name": "ho",
+        "author": "linh",
+        "year": 2026,
+        "cat": "Văn học",
+        "qty": 0
+    },
+    {
+        "code": "ms02",
+        "name": "ha",
+        "author": "linh",
+        "year": 1999,
+        "cat": "Kỹ năng",
+        "qty": 4
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "BR1768140453",
+        "member": "TV1768140383",
+        "book": "ms01",
+        "borrow_date": "2026-02-02",
+        "due_date": "2026-02-04",
+        "status": "Đang mượn"
+    },
+    {
+        "id": "BR1768140585",
+        "member": "TV1768140383",
+        "book": "ms01",
+        "borrow_date": "2026-02-02",
+        "due_date": "2026-02-04",
+        "status": "Đang mượn"
+    },
+    {
+        "id": "BR1768145579",
+        "member": "TV1768145440",
+        "book": "ms02",
+        "borrow_date": "2025-03-02",
+        "due_date": "2025-03-06",
+        "status": "Đang mượn"
+    }
+]
